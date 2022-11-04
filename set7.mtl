@@ -2,28 +2,22 @@
 ## Alias OBJ Material File
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 
-newmtl FrontColor
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl ForegroundColor
-Ka 0.000000 0.000000 0.000000
-Kd 0.000000 0.000000 0.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Translucent_Glass_Blue
-Ka 0.000000 0.000000 0.000000
-Kd 0.392157 0.584314 0.929412
-Ks 0.330000 0.330000 0.330000
-d 0.050000
-
 newmtl Translucent_Glass_Tinted
 Ka 0.000000 0.000000 0.000000
 Kd 0.027451 0.788235 0.941176
 Ks 0.330000 0.330000 0.330000
 d 0.480000
 map_Kd set7/Translucent_Glass_Tinted.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
 
 newmtl Carpet_Berber_Pattern_Gray
 Ka 0.000000 0.000000 0.000000
@@ -36,6 +30,12 @@ Ka 0.000000 0.000000 0.000000
 Kd 0.384314 0.549020 0.290196
 Ks 0.330000 0.330000 0.330000
 map_Kd set7/Vegetation_Grass_Artificial.jpg
+
+newmtl Translucent_Glass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.584314 0.929412
+Ks 0.330000 0.330000 0.330000
+d 0.050000
 
 newmtl Fencing_Lattice_Natural
 Ka 0.000000 0.000000 0.000000
